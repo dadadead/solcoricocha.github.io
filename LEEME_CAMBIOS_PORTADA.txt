@@ -1,0 +1,1 @@
+Se igualaron las 3 tarjetas de colecciones (mismo ancho, alto y textos alineados) y se aplicó una mejora moderada de nitidez a la fotografía de portada. Se conservan el catálogo de 8 muebles, las 43 fotos, el logo y WhatsApp. Abre index.html. La nitidez no crea detalles inexistentes en la foto original.

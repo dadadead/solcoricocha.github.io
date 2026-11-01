@@ -1,0 +1,3113 @@
+[
+  {
+    "id": 1000,
+    "name": "Banco Bar Aurora",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-03-01.webp",
+    "source_page": 3,
+    "source_position": 1,
+    "price": 300,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1001,
+    "name": "Banco Bar Nórdico",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-03-02.webp",
+    "source_page": 3,
+    "source_position": 2,
+    "price": 250,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1002,
+    "name": "Banco Bar Atlas",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-03-03.webp",
+    "source_page": 3,
+    "source_position": 3,
+    "price": 250,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1003,
+    "name": "Banco Bar Siena",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-03-04.webp",
+    "source_page": 3,
+    "source_position": 4,
+    "price": 235,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1004,
+    "name": "Banco Bar Ébano",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-03-05.webp",
+    "source_page": 3,
+    "source_position": 5,
+    "price": 465,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1005,
+    "name": "Banco Bar Boreal",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-03-06.webp",
+    "source_page": 3,
+    "source_position": 6,
+    "price": 465,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1006,
+    "name": "Banco Bar Verona",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-03-07.webp",
+    "source_page": 3,
+    "source_position": 7,
+    "price": 489,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1007,
+    "name": "Banco Bar Praga",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-03-08.webp",
+    "source_page": 3,
+    "source_position": 8,
+    "price": 220,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1008,
+    "name": "Banco Bar Lumen",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-03-09.webp",
+    "source_page": 3,
+    "source_position": 9,
+    "price": 235,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1009,
+    "name": "Banco Bar Terra",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-04-01.webp",
+    "source_page": 4,
+    "source_position": 1,
+    "price": 194,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1010,
+    "name": "Banco Bar Milán",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-04-02.webp",
+    "source_page": 4,
+    "source_position": 2,
+    "price": 163,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1011,
+    "name": "Banco Bar Cobalto",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-04-03.webp",
+    "source_page": 4,
+    "source_position": 3,
+    "price": 245,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1012,
+    "name": "Banco Bar Duna",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-04-04.webp",
+    "source_page": 4,
+    "source_position": 4,
+    "price": 293,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1013,
+    "name": "Banco Bar Olivo",
+    "category": "Bancos de bar",
+    "image": "assets/catalogo/pdf/coricha-04-05.webp",
+    "source_page": 4,
+    "source_position": 5,
+    "price": 456,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1014,
+    "name": "Banqueta Aurora",
+    "category": "Banquetas",
+    "image": "assets/catalogo/pdf/coricha-05-01.webp",
+    "source_page": 5,
+    "source_position": 1,
+    "price": 360,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1015,
+    "name": "Banqueta Nórdico",
+    "category": "Banquetas",
+    "image": "assets/catalogo/pdf/coricha-05-02.webp",
+    "source_page": 5,
+    "source_position": 2,
+    "price": 490,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1016,
+    "name": "Banqueta Atlas",
+    "category": "Banquetas",
+    "image": "assets/catalogo/pdf/coricha-05-03.webp",
+    "source_page": 5,
+    "source_position": 3,
+    "price": 400,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1017,
+    "name": "Banqueta Siena",
+    "category": "Banquetas",
+    "image": "assets/catalogo/pdf/coricha-05-04.webp",
+    "source_page": 5,
+    "source_position": 4,
+    "price": 424,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1018,
+    "name": "Banqueta Ébano",
+    "category": "Banquetas",
+    "image": "assets/catalogo/pdf/coricha-05-05.webp",
+    "source_page": 5,
+    "source_position": 5,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1019,
+    "name": "Banqueta Boreal",
+    "category": "Banquetas",
+    "image": "assets/catalogo/pdf/coricha-05-06.webp",
+    "source_page": 5,
+    "source_position": 6,
+    "price": 360,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1020,
+    "name": "Banqueta Verona",
+    "category": "Banquetas",
+    "image": "assets/catalogo/pdf/coricha-05-07.webp",
+    "source_page": 5,
+    "source_position": 7,
+    "price": 375,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "tapiz"
+  },
+  {
+    "id": 1021,
+    "name": "Cómoda Aurora",
+    "category": "Cómodas",
+    "image": "assets/catalogo/pdf/coricha-06-01.webp",
+    "source_page": 6,
+    "source_position": 1,
+    "price": 1060,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1022,
+    "name": "Cómoda Nórdico",
+    "category": "Cómodas",
+    "image": "assets/catalogo/pdf/coricha-06-02.webp",
+    "source_page": 6,
+    "source_position": 2,
+    "price": 1712,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1023,
+    "name": "Cómoda Atlas",
+    "category": "Cómodas",
+    "image": "assets/catalogo/pdf/coricha-06-03.webp",
+    "source_page": 6,
+    "source_position": 3,
+    "price": 1304,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1024,
+    "name": "Cómoda Siena",
+    "category": "Cómodas",
+    "image": "assets/catalogo/pdf/coricha-06-04.webp",
+    "source_page": 6,
+    "source_position": 4,
+    "price": 1715,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1025,
+    "name": "Cómoda Ébano",
+    "category": "Cómodas",
+    "image": "assets/catalogo/pdf/coricha-06-05.webp",
+    "source_page": 6,
+    "source_position": 5,
+    "price": 1800,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1026,
+    "name": "Cómoda Boreal",
+    "category": "Cómodas",
+    "image": "assets/catalogo/pdf/coricha-06-06.webp",
+    "source_page": 6,
+    "source_position": 6,
+    "price": 1240,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1027,
+    "name": "Cómoda Verona",
+    "category": "Cómodas",
+    "image": "assets/catalogo/pdf/coricha-06-07.webp",
+    "source_page": 6,
+    "source_position": 7,
+    "price": 1650,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1028,
+    "name": "Cómoda Praga",
+    "category": "Cómodas",
+    "image": "assets/catalogo/pdf/coricha-06-08.webp",
+    "source_page": 6,
+    "source_position": 8,
+    "price": 800,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1029,
+    "name": "Cómoda Lumen",
+    "category": "Cómodas",
+    "image": "assets/catalogo/pdf/coricha-06-09.webp",
+    "source_page": 6,
+    "source_position": 9,
+    "price": 1700,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1030,
+    "name": "Consola Aurora",
+    "category": "Consolas",
+    "image": "assets/catalogo/pdf/coricha-07-01.webp",
+    "source_page": 7,
+    "source_position": 1,
+    "price": 800,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1031,
+    "name": "Consola Nórdico",
+    "category": "Consolas",
+    "image": "assets/catalogo/pdf/coricha-07-02.webp",
+    "source_page": 7,
+    "source_position": 2,
+    "price": 293,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1032,
+    "name": "Consola Atlas",
+    "category": "Consolas",
+    "image": "assets/catalogo/pdf/coricha-07-03.webp",
+    "source_page": 7,
+    "source_position": 3,
+    "price": 245,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1033,
+    "name": "Consola Siena",
+    "category": "Consolas",
+    "image": "assets/catalogo/pdf/coricha-07-04.webp",
+    "source_page": 7,
+    "source_position": 4,
+    "price": 760,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1034,
+    "name": "Consola Ébano",
+    "category": "Consolas",
+    "image": "assets/catalogo/pdf/coricha-07-05.webp",
+    "source_page": 7,
+    "source_position": 5,
+    "price": 800,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1035,
+    "name": "Consola Boreal",
+    "category": "Consolas",
+    "image": "assets/catalogo/pdf/coricha-07-06.webp",
+    "source_page": 7,
+    "source_position": 6,
+    "price": 1020,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1036,
+    "name": "Consola Verona",
+    "category": "Consolas",
+    "image": "assets/catalogo/pdf/coricha-07-07.webp",
+    "source_page": 7,
+    "source_position": 7,
+    "price": 1470,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1037,
+    "name": "Consola Praga",
+    "category": "Consolas",
+    "image": "assets/catalogo/pdf/coricha-07-08.webp",
+    "source_page": 7,
+    "source_position": 8,
+    "price": 717,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1038,
+    "name": "Consola Lumen",
+    "category": "Consolas",
+    "image": "assets/catalogo/pdf/coricha-07-09.webp",
+    "source_page": 7,
+    "source_position": 9,
+    "price": 1480,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1039,
+    "name": "Escritorio Aurora",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-08-01.webp",
+    "source_page": 8,
+    "source_position": 1,
+    "price": 385,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1040,
+    "name": "Escritorio Nórdico",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-08-02.webp",
+    "source_page": 8,
+    "source_position": 2,
+    "price": 840,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1041,
+    "name": "Escritorio Atlas",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-08-03.webp",
+    "source_page": 8,
+    "source_position": 3,
+    "price": 595,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1042,
+    "name": "Escritorio Siena",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-08-04.webp",
+    "source_page": 8,
+    "source_position": 4,
+    "price": 595,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1043,
+    "name": "Escritorio Ébano",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-08-05.webp",
+    "source_page": 8,
+    "source_position": 5,
+    "price": 660,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1044,
+    "name": "Escritorio Boreal",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-08-06.webp",
+    "source_page": 8,
+    "source_position": 6,
+    "price": 562,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1045,
+    "name": "Escritorio Verona",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-08-07.webp",
+    "source_page": 8,
+    "source_position": 7,
+    "price": 500,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1046,
+    "name": "Escritorio Praga",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-08-08.webp",
+    "source_page": 8,
+    "source_position": 8,
+    "price": 595,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1047,
+    "name": "Escritorio Lumen",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-08-09.webp",
+    "source_page": 8,
+    "source_position": 9,
+    "price": 790,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1048,
+    "name": "Escritorio Terra",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-09-01.webp",
+    "source_page": 9,
+    "source_position": 1,
+    "price": 370,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1049,
+    "name": "Escritorio Milán",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-09-02.webp",
+    "source_page": 9,
+    "source_position": 2,
+    "price": 900,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1050,
+    "name": "Escritorio Cobalto",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-09-03.webp",
+    "source_page": 9,
+    "source_position": 3,
+    "price": 1140,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1051,
+    "name": "Escritorio Duna",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-09-04.webp",
+    "source_page": 9,
+    "source_position": 4,
+    "price": 782,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1052,
+    "name": "Escritorio Olivo",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-09-05.webp",
+    "source_page": 9,
+    "source_position": 5,
+    "price": 540,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1053,
+    "name": "Escritorio Riviera",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-09-06.webp",
+    "source_page": 9,
+    "source_position": 6,
+    "price": 735,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1054,
+    "name": "Escritorio Cerezo",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-09-07.webp",
+    "source_page": 9,
+    "source_position": 7,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1055,
+    "name": "Escritorio Mistral",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-09-08.webp",
+    "source_page": 9,
+    "source_position": 8,
+    "price": 1060,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1056,
+    "name": "Escritorio Roble",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-09-09.webp",
+    "source_page": 9,
+    "source_position": 9,
+    "price": 782,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1057,
+    "name": "Escritorio Nova",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-10-01.webp",
+    "source_page": 10,
+    "source_position": 1,
+    "price": 236,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1058,
+    "name": "Escritorio Arco",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-10-02.webp",
+    "source_page": 10,
+    "source_position": 2,
+    "price": 1141,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1059,
+    "name": "Escritorio Viena",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-10-03.webp",
+    "source_page": 10,
+    "source_position": 3,
+    "price": 897,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1060,
+    "name": "Escritorio Lima",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-10-04.webp",
+    "source_page": 10,
+    "source_position": 4,
+    "price": 513,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1061,
+    "name": "Escritorio Báltico",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-10-05.webp",
+    "source_page": 10,
+    "source_position": 5,
+    "price": 456,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1062,
+    "name": "Escritorio Sólido",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-10-06.webp",
+    "source_page": 10,
+    "source_position": 6,
+    "price": 1223,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1063,
+    "name": "Escritorio Orion",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-10-07.webp",
+    "source_page": 10,
+    "source_position": 7,
+    "price": 619,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1064,
+    "name": "Escritorio Toscana",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-10-08.webp",
+    "source_page": 10,
+    "source_position": 8,
+    "price": 815,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1065,
+    "name": "Escritorio Natura",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-10-09.webp",
+    "source_page": 10,
+    "source_position": 9,
+    "price": 619,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1066,
+    "name": "Escritorio Élite",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-11-01.webp",
+    "source_page": 11,
+    "source_position": 1,
+    "price": 734,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1067,
+    "name": "Escritorio Faro",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-11-02.webp",
+    "source_page": 11,
+    "source_position": 2,
+    "price": 652,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1068,
+    "name": "Escritorio Loft",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-11-03.webp",
+    "source_page": 11,
+    "source_position": 3,
+    "price": 1304,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1069,
+    "name": "Escritorio Atenas",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-11-04.webp",
+    "source_page": 11,
+    "source_position": 4,
+    "price": 1108,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1070,
+    "name": "Escritorio Cairo",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-11-05.webp",
+    "source_page": 11,
+    "source_position": 5,
+    "price": 864,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1071,
+    "name": "Escritorio Zafiro",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-11-06.webp",
+    "source_page": 11,
+    "source_position": 6,
+    "price": 677,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1072,
+    "name": "Escritorio Dorado",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/pdf/coricha-11-07.webp",
+    "source_page": 11,
+    "source_position": 7,
+    "price": 815,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1073,
+    "name": "Estante Aurora",
+    "category": "Estantes industriales",
+    "image": "assets/catalogo/pdf/coricha-12-01.webp",
+    "source_page": 12,
+    "source_position": 1,
+    "price": 815,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1074,
+    "name": "Estante Nórdico",
+    "category": "Estantes industriales",
+    "image": "assets/catalogo/pdf/coricha-12-02.webp",
+    "source_page": 12,
+    "source_position": 2,
+    "price": 1141,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1075,
+    "name": "Estante Atlas",
+    "category": "Estantes industriales",
+    "image": "assets/catalogo/pdf/coricha-12-03.webp",
+    "source_page": 12,
+    "source_position": 3,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1076,
+    "name": "Estante Siena",
+    "category": "Estantes industriales",
+    "image": "assets/catalogo/pdf/coricha-12-04.webp",
+    "source_page": 12,
+    "source_position": 4,
+    "price": 2900,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1077,
+    "name": "Juego de Comedor Aurora",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-13-01.webp",
+    "source_page": 13,
+    "source_position": 1,
+    "price": 717,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1078,
+    "name": "Juego de Comedor Nórdico",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-13-02.webp",
+    "source_page": 13,
+    "source_position": 2,
+    "price": 1223,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1079,
+    "name": "Juego de Comedor Atlas",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-13-03.webp",
+    "source_page": 13,
+    "source_position": 3,
+    "price": 1141,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1080,
+    "name": "Juego de Comedor Siena",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-13-04.webp",
+    "source_page": 13,
+    "source_position": 4,
+    "price": 1304,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1081,
+    "name": "Juego de Comedor Ébano",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-13-05.webp",
+    "source_page": 13,
+    "source_position": 5,
+    "price": 1386,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1082,
+    "name": "Juego de Comedor Boreal",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-13-06.webp",
+    "source_page": 13,
+    "source_position": 6,
+    "price": 1141,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1083,
+    "name": "Juego de Comedor Verona",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-13-07.webp",
+    "source_page": 13,
+    "source_position": 7,
+    "price": 717,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1084,
+    "name": "Juego de Comedor Praga",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-13-08.webp",
+    "source_page": 13,
+    "source_position": 8,
+    "price": 530,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1085,
+    "name": "Juego de Comedor Lumen",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-13-09.webp",
+    "source_page": 13,
+    "source_position": 9,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1086,
+    "name": "Juego de Comedor Terra",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-14-01.webp",
+    "source_page": 14,
+    "source_position": 1,
+    "price": 1043,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1087,
+    "name": "Juego de Comedor Milán",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-14-02.webp",
+    "source_page": 14,
+    "source_position": 2,
+    "price": 652,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1088,
+    "name": "Juego de Comedor Cobalto",
+    "category": "Juegos de comedor",
+    "image": "assets/catalogo/pdf/coricha-14-03.webp",
+    "source_page": 14,
+    "source_position": 3,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1089,
+    "name": "Librero Aurora",
+    "category": "Libreros",
+    "image": "assets/catalogo/pdf/coricha-15-01.webp",
+    "source_page": 15,
+    "source_position": 1,
+    "price": 1125,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1090,
+    "name": "Librero Nórdico",
+    "category": "Libreros",
+    "image": "assets/catalogo/pdf/coricha-15-02.webp",
+    "source_page": 15,
+    "source_position": 2,
+    "price": 978,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1091,
+    "name": "Librero Atlas",
+    "category": "Libreros",
+    "image": "assets/catalogo/pdf/coricha-15-03.webp",
+    "source_page": 15,
+    "source_position": 3,
+    "price": 540,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1092,
+    "name": "Librero Siena",
+    "category": "Libreros",
+    "image": "assets/catalogo/pdf/coricha-15-04.webp",
+    "source_page": 15,
+    "source_position": 4,
+    "price": 540,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1093,
+    "name": "Librero Ébano",
+    "category": "Libreros",
+    "image": "assets/catalogo/pdf/coricha-15-05.webp",
+    "source_page": 15,
+    "source_position": 5,
+    "price": 880,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1094,
+    "name": "Librero Boreal",
+    "category": "Libreros",
+    "image": "assets/catalogo/pdf/coricha-15-06.webp",
+    "source_page": 15,
+    "source_position": 6,
+    "price": 929,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1095,
+    "name": "Librero Verona",
+    "category": "Libreros",
+    "image": "assets/catalogo/pdf/coricha-15-07.webp",
+    "source_page": 15,
+    "source_position": 7,
+    "price": 2282,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1096,
+    "name": "Librero Praga",
+    "category": "Libreros",
+    "image": "assets/catalogo/pdf/coricha-15-08.webp",
+    "source_page": 15,
+    "source_position": 8,
+    "price": 490,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1097,
+    "name": "Mesa Auxiliar Aurora",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-16-01.webp",
+    "source_page": 16,
+    "source_position": 1,
+    "price": 310,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1098,
+    "name": "Mesa Auxiliar Nórdico",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-16-02.webp",
+    "source_page": 16,
+    "source_position": 2,
+    "price": 440,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1099,
+    "name": "Mesa Auxiliar Atlas",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-16-03.webp",
+    "source_page": 16,
+    "source_position": 3,
+    "price": 310,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1100,
+    "name": "Mesa Auxiliar Siena",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-16-04.webp",
+    "source_page": 16,
+    "source_position": 4,
+    "price": 473,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1101,
+    "name": "Mesa Auxiliar Ébano",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-16-05.webp",
+    "source_page": 16,
+    "source_position": 5,
+    "price": 310,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1102,
+    "name": "Mesa Auxiliar Boreal",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-16-06.webp",
+    "source_page": 16,
+    "source_position": 6,
+    "price": 253,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1103,
+    "name": "Mesa Auxiliar Verona",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-16-07.webp",
+    "source_page": 16,
+    "source_position": 7,
+    "price": 1418,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1104,
+    "name": "Mesa Auxiliar Praga",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-16-08.webp",
+    "source_page": 16,
+    "source_position": 8,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1105,
+    "name": "Mesa Auxiliar Lumen",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-16-09.webp",
+    "source_page": 16,
+    "source_position": 9,
+    "price": 196,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1106,
+    "name": "Mesa Auxiliar Terra",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-17-01.webp",
+    "source_page": 17,
+    "source_position": 1,
+    "price": 391,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1107,
+    "name": "Mesa Auxiliar Milán",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-17-02.webp",
+    "source_page": 17,
+    "source_position": 2,
+    "price": 538,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1108,
+    "name": "Mesa Auxiliar Cobalto",
+    "category": "Mesas auxiliares",
+    "image": "assets/catalogo/pdf/coricha-17-03.webp",
+    "source_page": 17,
+    "source_position": 3,
+    "price": 310,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1109,
+    "name": "Mesa de Centro Aurora",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-18-01.webp",
+    "source_page": 18,
+    "source_position": 1,
+    "price": 945,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1110,
+    "name": "Mesa de Centro Nórdico",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-18-02.webp",
+    "source_page": 18,
+    "source_position": 2,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1111,
+    "name": "Mesa de Centro Atlas",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-18-03.webp",
+    "source_page": 18,
+    "source_position": 3,
+    "price": 636,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1112,
+    "name": "Mesa de Centro Siena",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-18-04.webp",
+    "source_page": 18,
+    "source_position": 4,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1113,
+    "name": "Mesa de Centro Ébano",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-18-05.webp",
+    "source_page": 18,
+    "source_position": 5,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1114,
+    "name": "Mesa de Centro Boreal",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-18-06.webp",
+    "source_page": 18,
+    "source_position": 6,
+    "price": 570,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1115,
+    "name": "Mesa de Centro Verona",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-18-07.webp",
+    "source_page": 18,
+    "source_position": 7,
+    "price": 668,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1116,
+    "name": "Mesa de Centro Praga",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-18-08.webp",
+    "source_page": 18,
+    "source_position": 8,
+    "price": 734,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1117,
+    "name": "Mesa de Centro Lumen",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-18-09.webp",
+    "source_page": 18,
+    "source_position": 9,
+    "price": 505,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1118,
+    "name": "Mesa de Centro Terra",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-19-01.webp",
+    "source_page": 19,
+    "source_position": 1,
+    "price": 540,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1119,
+    "name": "Mesa de Centro Milán",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-19-02.webp",
+    "source_page": 19,
+    "source_position": 2,
+    "price": 590,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1120,
+    "name": "Mesa de Centro Cobalto",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-19-03.webp",
+    "source_page": 19,
+    "source_position": 3,
+    "price": 540,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1121,
+    "name": "Mesa de Centro Duna",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-19-04.webp",
+    "source_page": 19,
+    "source_position": 4,
+    "price": 880,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1122,
+    "name": "Mesa de Centro Olivo",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-19-05.webp",
+    "source_page": 19,
+    "source_position": 5,
+    "price": 830,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1123,
+    "name": "Mesa de Centro Riviera",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-19-06.webp",
+    "source_page": 19,
+    "source_position": 6,
+    "price": 850,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1124,
+    "name": "Mesa de Centro Cerezo",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-19-07.webp",
+    "source_page": 19,
+    "source_position": 7,
+    "price": 1206,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1125,
+    "name": "Mesa de Centro Mistral",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-19-08.webp",
+    "source_page": 19,
+    "source_position": 8,
+    "price": 685,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1126,
+    "name": "Mesa de Centro Roble",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-19-09.webp",
+    "source_page": 19,
+    "source_position": 9,
+    "price": 850,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1127,
+    "name": "Mesa de Centro Nova",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-20-01.webp",
+    "source_page": 20,
+    "source_position": 1,
+    "price": 685,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1128,
+    "name": "Mesa de Centro Arco",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-20-02.webp",
+    "source_page": 20,
+    "source_position": 2,
+    "price": 570,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1129,
+    "name": "Mesa de Centro Viena",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-20-03.webp",
+    "source_page": 20,
+    "source_position": 3,
+    "price": 652,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1130,
+    "name": "Mesa de Centro Lima",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-20-04.webp",
+    "source_page": 20,
+    "source_position": 4,
+    "price": 1043,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1131,
+    "name": "Mesa de Centro Báltico",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-20-05.webp",
+    "source_page": 20,
+    "source_position": 5,
+    "price": 978,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1132,
+    "name": "Mesa de Centro Sólido",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-20-06.webp",
+    "source_page": 20,
+    "source_position": 6,
+    "price": 603,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1133,
+    "name": "Mesa de Centro Orion",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-20-07.webp",
+    "source_page": 20,
+    "source_position": 7,
+    "price": 408,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1134,
+    "name": "Mesa de Centro Toscana",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-20-08.webp",
+    "source_page": 20,
+    "source_position": 8,
+    "price": 652,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1135,
+    "name": "Mesa de Centro Natura",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/pdf/coricha-20-09.webp",
+    "source_page": 20,
+    "source_position": 9,
+    "price": 1108,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1136,
+    "name": "Mesa de Comedor Aurora",
+    "category": "Mesas de comedor",
+    "image": "assets/catalogo/pdf/coricha-21-01.webp",
+    "source_page": 21,
+    "source_position": 1,
+    "price": 962,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1137,
+    "name": "Mesa de Comedor Nórdico",
+    "category": "Mesas de comedor",
+    "image": "assets/catalogo/pdf/coricha-21-02.webp",
+    "source_page": 21,
+    "source_position": 2,
+    "price": 1157,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1138,
+    "name": "Mesa de Comedor Atlas",
+    "category": "Mesas de comedor",
+    "image": "assets/catalogo/pdf/coricha-21-03.webp",
+    "source_page": 21,
+    "source_position": 3,
+    "price": 1304,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1139,
+    "name": "Mesa de Comedor Siena",
+    "category": "Mesas de comedor",
+    "image": "assets/catalogo/pdf/coricha-21-04.webp",
+    "source_page": 21,
+    "source_position": 4,
+    "price": 815,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1140,
+    "name": "Mesa de Comedor Ébano",
+    "category": "Mesas de comedor",
+    "image": "assets/catalogo/pdf/coricha-21-05.webp",
+    "source_page": 21,
+    "source_position": 5,
+    "price": 1304,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1141,
+    "name": "Mesa de Comedor Boreal",
+    "category": "Mesas de comedor",
+    "image": "assets/catalogo/pdf/coricha-21-06.webp",
+    "source_page": 21,
+    "source_position": 6,
+    "price": 1271,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1142,
+    "name": "Mueble de TV Aurora",
+    "category": "Muebles de TV",
+    "image": "assets/catalogo/pdf/coricha-22-01.webp",
+    "source_page": 22,
+    "source_position": 1,
+    "price": 1240,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1143,
+    "name": "Mueble de TV Nórdico",
+    "category": "Muebles de TV",
+    "image": "assets/catalogo/pdf/coricha-22-02.webp",
+    "source_page": 22,
+    "source_position": 2,
+    "price": 1402,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1144,
+    "name": "Mueble de TV Atlas",
+    "category": "Muebles de TV",
+    "image": "assets/catalogo/pdf/coricha-22-03.webp",
+    "source_page": 22,
+    "source_position": 3,
+    "price": 1402,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1145,
+    "name": "Mueble de TV Siena",
+    "category": "Muebles de TV",
+    "image": "assets/catalogo/pdf/coricha-22-04.webp",
+    "source_page": 22,
+    "source_position": 4,
+    "price": 1369,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1146,
+    "name": "Mueble de TV Ébano",
+    "category": "Muebles de TV",
+    "image": "assets/catalogo/pdf/coricha-22-05.webp",
+    "source_page": 22,
+    "source_position": 5,
+    "price": 1337,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1147,
+    "name": "Mueble de TV Boreal",
+    "category": "Muebles de TV",
+    "image": "assets/catalogo/pdf/coricha-22-06.webp",
+    "source_page": 22,
+    "source_position": 6,
+    "price": 1337,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1148,
+    "name": "Mueble de TV Verona",
+    "category": "Muebles de TV",
+    "image": "assets/catalogo/pdf/coricha-22-07.webp",
+    "source_page": 22,
+    "source_position": 7,
+    "price": 1108,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1149,
+    "name": "Mueble de TV Praga",
+    "category": "Muebles de TV",
+    "image": "assets/catalogo/pdf/coricha-22-08.webp",
+    "source_page": 22,
+    "source_position": 8,
+    "price": 1239,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1150,
+    "name": "Mueble Bar Aurora",
+    "category": "Muebles bar",
+    "image": "assets/catalogo/pdf/coricha-23-01.webp",
+    "source_page": 23,
+    "source_position": 1,
+    "price": 1597,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1151,
+    "name": "Mueble Bar Nórdico",
+    "category": "Muebles bar",
+    "image": "assets/catalogo/pdf/coricha-23-02.webp",
+    "source_page": 23,
+    "source_position": 2,
+    "price": 1475,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1152,
+    "name": "Mueble Bar Atlas",
+    "category": "Muebles bar",
+    "image": "assets/catalogo/pdf/coricha-23-03.webp",
+    "source_page": 23,
+    "source_position": 3,
+    "price": 1235,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1153,
+    "name": "Mueble Bar Siena",
+    "category": "Muebles bar",
+    "image": "assets/catalogo/pdf/coricha-23-04.webp",
+    "source_page": 23,
+    "source_position": 4,
+    "price": 1467,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1154,
+    "name": "Mueble Bar Ébano",
+    "category": "Muebles bar",
+    "image": "assets/catalogo/pdf/coricha-23-05.webp",
+    "source_page": 23,
+    "source_position": 5,
+    "price": 1530,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1155,
+    "name": "Mueble Bar Boreal",
+    "category": "Muebles bar",
+    "image": "assets/catalogo/pdf/coricha-23-06.webp",
+    "source_page": 23,
+    "source_position": 6,
+    "price": 1597,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1156,
+    "name": "Velador Aurora",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-24-01.webp",
+    "source_page": 24,
+    "source_position": 1,
+    "price": 360,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1157,
+    "name": "Velador Nórdico",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-24-02.webp",
+    "source_page": 24,
+    "source_position": 2,
+    "price": 424,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1158,
+    "name": "Velador Atlas",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-24-03.webp",
+    "source_page": 24,
+    "source_position": 3,
+    "price": 473,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1159,
+    "name": "Velador Siena",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-24-04.webp",
+    "source_page": 24,
+    "source_position": 4,
+    "price": 360,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1160,
+    "name": "Velador Ébano",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-24-05.webp",
+    "source_page": 24,
+    "source_position": 5,
+    "price": 554,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1161,
+    "name": "Velador Boreal",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-24-06.webp",
+    "source_page": 24,
+    "source_position": 6,
+    "price": 326,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1162,
+    "name": "Velador Verona",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-24-07.webp",
+    "source_page": 24,
+    "source_position": 7,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1163,
+    "name": "Velador Praga",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-24-08.webp",
+    "source_page": 24,
+    "source_position": 8,
+    "price": 408,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1164,
+    "name": "Velador Lumen",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-24-09.webp",
+    "source_page": 24,
+    "source_position": 9,
+    "price": 473,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1165,
+    "name": "Velador Terra",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-25-01.webp",
+    "source_page": 25,
+    "source_position": 1,
+    "price": 505,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1166,
+    "name": "Velador Milán",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-25-02.webp",
+    "source_page": 25,
+    "source_position": 2,
+    "price": 505,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1167,
+    "name": "Velador Cobalto",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-25-03.webp",
+    "source_page": 25,
+    "source_position": 3,
+    "price": 326,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1168,
+    "name": "Velador Duna",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-25-04.webp",
+    "source_page": 25,
+    "source_position": 4,
+    "price": 391,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1169,
+    "name": "Velador Olivo",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-25-05.webp",
+    "source_page": 25,
+    "source_position": 5,
+    "price": 408,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1170,
+    "name": "Velador Riviera",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-25-06.webp",
+    "source_page": 25,
+    "source_position": 6,
+    "price": 522,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1171,
+    "name": "Velador Cerezo",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-25-07.webp",
+    "source_page": 25,
+    "source_position": 7,
+    "price": 334,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1172,
+    "name": "Velador Mistral",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-25-08.webp",
+    "source_page": 25,
+    "source_position": 8,
+    "price": 360,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1173,
+    "name": "Velador Roble",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-25-09.webp",
+    "source_page": 25,
+    "source_position": 9,
+    "price": 505,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1174,
+    "name": "Velador Nova",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-26-01.webp",
+    "source_page": 26,
+    "source_position": 1,
+    "price": 505,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1175,
+    "name": "Velador Arco",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-26-02.webp",
+    "source_page": 26,
+    "source_position": 2,
+    "price": 554,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1176,
+    "name": "Velador Viena",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-26-03.webp",
+    "source_page": 26,
+    "source_position": 3,
+    "price": 310,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1177,
+    "name": "Velador Lima",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-26-04.webp",
+    "source_page": 26,
+    "source_position": 4,
+    "price": 326,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1178,
+    "name": "Velador Báltico",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-26-05.webp",
+    "source_page": 26,
+    "source_position": 5,
+    "price": 490,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1179,
+    "name": "Velador Sólido",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-26-06.webp",
+    "source_page": 26,
+    "source_position": 6,
+    "price": 375,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1180,
+    "name": "Velador Orion",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-26-07.webp",
+    "source_page": 26,
+    "source_position": 7,
+    "price": 375,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1181,
+    "name": "Velador Toscana",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-26-08.webp",
+    "source_page": 26,
+    "source_position": 8,
+    "price": 360,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  },
+  {
+    "id": 1182,
+    "name": "Velador Natura",
+    "category": "Veladores industriales",
+    "image": "assets/catalogo/pdf/coricha-26-09.webp",
+    "source_page": 26,
+    "source_position": 9,
+    "price": 440,
+    "size": null,
+    "swatches": [
+      "#d7c4a6",
+      "#5b4235",
+      "#2d3034",
+      "#e9e5df"
+    ],
+    "swatchType": "melamina"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "name": "Consola Recibidor Agatha Blanco Dorado",
+    "category": "Consolas",
+    "image": "assets/catalogo/mueble-001-00.jpeg",
+    "images": [
+      "assets/catalogo/mueble-001-00.jpeg",
+      "assets/catalogo/mueble-001-01.jpeg",
+      "assets/catalogo/mueble-001-02.jpeg",
+      "assets/catalogo/mueble-001-03.jpeg",
+      "assets/catalogo/mueble-001-04.jpeg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Consola Recibidor Gatsby Caramelo",
+    "category": "Consolas",
+    "image": "assets/catalogo/mueble-002-00.jpeg",
+    "images": [
+      "assets/catalogo/mueble-002-00.jpeg",
+      "assets/catalogo/mueble-002-01.jpeg",
+      "assets/catalogo/mueble-002-02.jpeg",
+      "assets/catalogo/mueble-002-03.jpeg",
+      "assets/catalogo/mueble-002-04.jpeg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Consola Recibidor Industrial Berilio Caramelo",
+    "category": "Consolas",
+    "image": "assets/catalogo/mueble-003-00.jpeg",
+    "images": [
+      "assets/catalogo/mueble-003-00.jpeg",
+      "assets/catalogo/mueble-003-01.jpeg",
+      "assets/catalogo/mueble-003-02.jpeg",
+      "assets/catalogo/mueble-003-03.jpeg",
+      "assets/catalogo/mueble-003-04.jpeg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Consola Recibidor Sterling Blanco",
+    "category": "Consolas",
+    "image": "assets/catalogo/mueble-004-00.webp",
+    "images": [
+      "assets/catalogo/mueble-004-00.webp",
+      "assets/catalogo/mueble-004-01.jpeg",
+      "assets/catalogo/mueble-004-02.jpeg",
+      "assets/catalogo/mueble-004-03.jpeg",
+      "assets/catalogo/mueble-004-04.jpeg",
+      "assets/catalogo/mueble-004-05.jpeg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Escritorio Archivador Gamer Battle Negro",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/mueble-005-00.jpeg",
+    "images": [
+      "assets/catalogo/mueble-005-00.jpeg",
+      "assets/catalogo/mueble-005-01.jpeg",
+      "assets/catalogo/mueble-005-02.jpeg",
+      "assets/catalogo/mueble-005-03.jpeg",
+      "assets/catalogo/mueble-005-04.jpeg",
+      "assets/catalogo/mueble-005-05.jpeg",
+      "assets/catalogo/mueble-005-06.jpeg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Escritorio Estante Industrial Noah Gales",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/mueble-006-00.jpeg",
+    "images": [
+      "assets/catalogo/mueble-006-00.jpeg",
+      "assets/catalogo/mueble-006-01.jpeg",
+      "assets/catalogo/mueble-006-02.jpeg",
+      "assets/catalogo/mueble-006-03.jpeg",
+      "assets/catalogo/mueble-006-04.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Escritorio Industrial Summer Duna",
+    "category": "Escritorios industriales",
+    "image": "assets/catalogo/mueble-007-00.jpeg",
+    "images": [
+      "assets/catalogo/mueble-007-00.jpeg",
+      "assets/catalogo/mueble-007-01.jpeg",
+      "assets/catalogo/mueble-007-02.jpeg",
+      "assets/catalogo/mueble-007-03.jpeg",
+      "assets/catalogo/mueble-007-04.jpeg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Set de Mesas de Centro Industrial Loki Caramelo - Cemento",
+    "category": "Mesas de centro",
+    "image": "assets/catalogo/mueble-008-00.jpeg",
+    "images": [
+      "assets/catalogo/mueble-008-00.jpeg",
+      "assets/catalogo/mueble-008-01.jpeg",
+      "assets/catalogo/mueble-008-02.jpeg",
+      "assets/catalogo/mueble-008-03.jpeg",
+      "assets/catalogo/mueble-008-04.jpeg"
+    ]
+  }
+]

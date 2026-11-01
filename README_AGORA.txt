@@ -1,0 +1,1 @@
+Catálogo AGORA: 30 modelos y 86 imágenes. Los nombres son descriptivos basados en las fotografías, no equivalencias verificadas con Falabella. Los precios están pendientes de cotización. Configure WhatsApp en script.js. Abra index.html o catalogo.html.
